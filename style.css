@@ -109,7 +109,7 @@ section::before {
 }
 
 #work-1:hover::after{
-    content: 'Web Project';
+    content: 'Data Annator';
 }
 
 #work-2 {
@@ -117,7 +117,7 @@ section::before {
 }
 
 #work-2:hover::after{
-    content: 'Software Project';
+    content: 'Point of Interest';
 }
 
 #work-3 {
@@ -125,7 +125,7 @@ section::before {
 }
 
 #work-3:hover::after{
-    content: 'Software Project';
+    content: 'Waiters';
 }
 
 .contact {
